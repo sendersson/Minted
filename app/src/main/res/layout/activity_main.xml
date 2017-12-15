@@ -13,13 +13,13 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:contentDescription="@string/main_img"
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        app:srcCompat="@drawable/Pickle" />
+        android:contentDescription="@string/main_img"
+        app:srcCompat="@drawable/pickle" />
 
     <TextView
         android:layout_width="wrap_content"
