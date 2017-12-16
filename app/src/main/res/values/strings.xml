@@ -2,4 +2,5 @@
     <string name="app_name">Pickle Rick!</string>
     <string name="title">I am Pickle Rick!</string>
     <string name="main_img">Pickle Rick img</string>
+    <string name="sound">Tryck</string>
 </resources>
